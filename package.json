@@ -1,5 +1,6 @@
 {
   "name": "json-format",
+  "homepage": "https://5ock.github.io/JSONFormatter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
