@@ -2,4 +2,4 @@
 
 [Demo](https://5ock.github.io/JSONFormatter/)
 
-May create another tools
+May create another tool
